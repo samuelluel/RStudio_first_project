@@ -63,5 +63,5 @@ The work focuses on applying statistical learning methods using R, including reg
 
 👤 Author
 
-Samuel Luel
+Samuel weldemariam
 MSc Data Science – Birkbeck University of London
